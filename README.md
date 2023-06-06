@@ -2,7 +2,7 @@
 
 This was from the YouTube course, "React JS Crash Course" from Traversy Media. I cloned the repository, and created my own react app using the command 'npx create-react-app' and following along to the tutorial step by step. In the end, the project gave me immense insight into React, and was a wonderful starting point in getting familiar with React. The following README.md are from bradtraversy's github repo:
 
---
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
